@@ -1,4 +1,4 @@
-# Zip_Law_Hanzi
+# Zipf_Law_Hanzi
 Showing functionality of Zipf's Law when applied to 汉字 (Chinese characters)
 
 # Zipf's Law 
